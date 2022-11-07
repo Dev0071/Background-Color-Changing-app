@@ -209,6 +209,9 @@ main {
   border-radius: var(--radius);
   margin-bottom: 2.5rem;
 }
+.container h1{
+  padding-bottom: 3rem;
+}
 .color {
   color: var(--clr-primary-5);
 }
